@@ -1,4 +1,4 @@
-# NovaShell - A Simple Shell Interpretor (ssi.c)
+# SSI - A Simple Shell Interpretor
 
 NovaShell lightweight POSIX-compatible command-line interpreter written in C, featuring interactive prompts, built-in commands (cd, bg, bglist), process management, and custom signal handling. Designed for modularity, robustness, and user responsiveness using readline() and fork()/execvp().
 
