@@ -1,4 +1,4 @@
-# SynchroRail - A Multi-Threaded Train Scheduling Simulator
+# MTS - A Multi-Threaded Train Scheduling Simulator
 
 ## 1. Overview
 
