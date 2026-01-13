@@ -16,8 +16,8 @@ To understand how a set of computing resources can be shared safely, efficiently
   
 ## Contents in this Repository
 
-* A1: SSI - Simple Shell Interpretor (Grade: 98.33%)
-* A2: MTS - Mutli-Threading Train Similator (Grade: 86.67%)
-* A3: SFS - Simple File System (Grade: To be declared)
+* A1: SSI - Simple Shell Interpretor (Grade: 14.75/15)
+* A2: MTS - Mutli-Threading Train Similator (Grade: 13/15)
+* A3: SFS - Simple File System (Grade: 14/15)
 
 ---
